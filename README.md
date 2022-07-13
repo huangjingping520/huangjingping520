@@ -4,8 +4,8 @@ I'm MerlinAlex.
 
 + Undergraduate
 + Focusing on Frontend Dev
-+ Learning Java & Python
 + Coding Passionate
++ Love OpenSource
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huangjingping520&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
